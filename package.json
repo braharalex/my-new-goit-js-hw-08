@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/braharalex/my-new-goit-js-hw-08.git"
+    "url": "git+https://github.com/braharalex/my-new-goit-js-hw-08"
     
   },
   "keywords": [],
   "author": "Uliana Brahar <uljador@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/goitacademy/parcel-project-template/issues"
+    "url": "https://github.com/braharalex/my-new-goit-js-hw-08/issues"
   },
   "dependencies": {
     "@vimeo/player": "^2.21.0",
